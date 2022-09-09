@@ -5,3 +5,5 @@ This is a Python Jupyter Notebook presenting insights into African Monsoon clima
 Particularly, West African monsoon characteristics and long-term trends are analyzed, visualized and discussed. Finally, the correlation of monsoon rainfall and fire risk in the Sahel is assessed.
 
 The notebook was prepared by Jan Landwehrs as a contribution to the WEkEO Jupyter Notebook Competition 2022.
+
+![image](https://github.com/JanLandwehrs/AfricanMonsoonClimate_WEkEO-Competition/blob/main/Figure-02_WestAfricanMonsoon.pdf)
